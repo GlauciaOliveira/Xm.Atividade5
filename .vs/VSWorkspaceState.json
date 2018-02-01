@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\App1",
+    "\\App1\\packages"
   ],
+  "SelectedNode": "\\App1\\packages\\Xamarin.Forms.2.3.4.247",
   "PreviewInSolutionExplorer": false
 }

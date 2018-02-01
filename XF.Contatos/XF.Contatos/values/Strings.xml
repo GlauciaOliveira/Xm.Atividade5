@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Ola Mundo, Clique aqui!</string>
+  <string name="ApplicationName">Droid_Telefone</string>
+  <string name="telefone">Informe o telefone</string>
+  <string name="chamada">Fazer chamada</string>
+</resources>
